@@ -95,6 +95,12 @@ def update(package, folder=None):
 def main(packages_file, packages_folder, documents_file, documents_folder):
     packages_folder = Path(packages_folder)
     try:
+        packages_folder.mkdir(exist_ok=True)
+    except FileExistsError:
+        logging.warning('Path "%s" exists and is not a directory.',
+                        packages_folder)
+        return
+    try:
         with open(packages_file, 'r') as f:
             for package in f:
                 package = package.strip()
