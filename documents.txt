@@ -1,0 +1,13 @@
+http://mirrors.ctan.org/info/lshort/german/l2kurz.pdf LaTeX 2ε-Kurzbeschreibung.pdf
+http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a027_latex_fort.pdf LaTeX – Fortgeschrittene Anwendungen.pdf
+http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a026_latex_einf.pdf LaTeX – eine Einführung und ein bisschen mehr.pdf
+http://mirrors.ctan.org/info/dtxtut/dtxtut.pdf How to Package Your LaTeX Package.pdf
+http://www.latex-project.org/guides/clsguide.pdf LaTeX 2ε for class and package writers.pdf
+http://mirrors.ctan.org/info/l2tabu/german/l2tabu.pdf Das LaTeX 2ε-Sündenregister.pdf
+http://mirrors.ctan.org/info/docsurvey/docsurvey.pdf Programming LaTeX — A survey of documentation and packages.pdf
+http://mirrors.ctan.org/info/undergradmath/undergradmath.pdf LaTeX Math for Undergrads.pdf
+http://mirrors.ctan.org/info/latexcheat/latexcheat-de/latexsheet-de.pdf LaTeX 2ε Befehlsübersicht.pdf
+http://mirrors.ctan.org/info/latexcheat/latexcheat/latexsheet.pdf LaTeX 2ε Cheat Sheet.pdf
+http://mirrors.ctan.org/info/lshort/english/lshort.pdf The Not So Short Introduction to LaTeX 2ε.pdf
+http://mirrors.ctan.org/info/math/voss/InlineMath/InlineMath.pdf Mathematik im Inline Modus.pdf
+http://mirrors.ctan.org/info/math/voss/mathCol/mathCol.pdf Farbige Mathematik.pdf
